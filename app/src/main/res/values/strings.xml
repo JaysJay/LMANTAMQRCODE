@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LM ANTAM QRCODE</string>
+    <string name="ActionBar">LM ANTAM SCAN</string>
+    <string name="HasilScan">Hasil Scan</string>
+    <string name="gps_network_not_enabled">GPS/Location is not Enabled</string>
+    <string name="open_location_settings">Open Setting</string>
+    <string name="Cancel">Cancel</string>
+</resources>

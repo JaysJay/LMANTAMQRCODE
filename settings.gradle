@@ -1,0 +1,2 @@
+rootProject.name = "LM ANTAM QRCODE"
+include ':app'
